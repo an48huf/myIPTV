@@ -28,7 +28,5 @@ http://bxtv.3a.ink/api.php?id=viutv
 http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="BXTV频道",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="咪咕直播",CCTV-5体育
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="咪咕直播",CCTV-5+体育赛事
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="咪咕直播",劲爆体育
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=jbty
